@@ -1,18 +1,3 @@
-<!-- //need a readme for the project productApp-->
-## project structure
-
-├── src
-│   ├── assets
-│   │   └── images
-│   │       └── shoes.png        # Sample shoe image used in the app
-│   ├── components
-│   │   ├── ShoeType.tsx         # Component for displaying shoe types and colors
-│   │   ├── ProductsWrapper.tsx  # Wrapper component for each product with name and details
-│   │   └── ShoeDetails.tsx      # Component with color, size selection, and buying option
-│   ├── App.tsx                  # Main entry component to render the app
-│   └── products.css             # Styling for product components
-└── README.md                    # Project description and documentation
-
 
 ## Main Components
 ShoeType: Shows the shoe image and color options.
