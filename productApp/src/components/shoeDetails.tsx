@@ -13,6 +13,7 @@ return (
     <hr />
     <hr />
     <div className="colors">
+        <p>Select Color</p>
         {colors.map((color) => (
             <button
                 key={color}

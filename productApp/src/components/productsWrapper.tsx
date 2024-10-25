@@ -17,6 +17,6 @@ const ProductsWrapper: React.FC<productsWrapperProps> = ({shoedetails,shoeName})
             </div>
           
         </div>
-    );
+    ); 
 }
 export default ProductsWrapper;

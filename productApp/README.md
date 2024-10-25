@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+
+## The interface of the product app
+![alt text](image-1.png)
